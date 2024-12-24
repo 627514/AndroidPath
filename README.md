@@ -10,6 +10,7 @@
 新建系统变量名CLASSPATH
            值.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
 ![1735004270910](https://github.com/user-attachments/assets/625d9134-684e-43fa-b171-e40a8cbdc1d1)
+
 在系统变量Path中新增 %ADB% 
 在系统变量Path中新增 %JAVA_HOME%\bin
 
